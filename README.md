@@ -2,5 +2,3 @@ The provided notebook and .npy cross-section files will allow you to recreate th
 A .yml file is also included to provide you with the needed environment.
 
 We do NOT provide the VALD files necessary to recreate the cross-sections from scratch; you can use the pre-computed ones provided in the .npy file, or you can sign up for VALD, download cross-section files, and supply them customly.
-
-Pysynphot and the PHOENIX database are also required to recreate gj_367.png, you may find instructions for doing so at https://pysynphot.readthedocs.io/en/latest/
